@@ -1,3 +1,4 @@
+<script>
 function button(){
     var inputArray = [];
   var size = 5; 
@@ -10,4 +11,4 @@ function button(){
   }
   var str = String(inputArray).toUpperCase().split(",");
   }
-
+</script>
